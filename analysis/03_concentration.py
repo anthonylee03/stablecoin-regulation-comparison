@@ -39,7 +39,7 @@ def load_inputs():
 
 
 def load_sources():
-    with (ROOT / "sources" / "sources.csv").open(encoding="utf-8-sig", newline="") as file:
+    with (ROOT / "research" / "sources" / "sources.csv").open(encoding="utf-8-sig", newline="") as file:
         return {row["source_id"]: row for row in csv.DictReader(file)}
 
 
@@ -63,7 +63,7 @@ def apply_issuer_map(daily, meta):
 
 def load_events():
     sources = load_sources()
-    scope = (ROOT / "docs" / "scope.md").read_text(encoding="utf-8")
+    scope = (ROOT / "research" / "docs" / "scope.md").read_text(encoding="utf-8")
     section = scope.split("## 규제 이벤트 날짜 후보", 1)[1].split("\n## ", 1)[0]
     events = []
     for line in section.splitlines():
@@ -169,8 +169,8 @@ def render_concentration(monthly, shares, events):
     fig.suptitle("월별 스테이블코인 발행사 집중도 시나리오 | 월 마지막 관측일\n"
                  f"{finish.date()} 발행사 확인 비율 {number(monthly.known_coverage.iloc[-1])}%\n"
                  "수직선: 미국 적색 · EU 청록 · 홍콩 황토 · 한국 보라")
-    fig.supxlabel("출처: DefiLlama DATA-LLAMA-03 · data/issuer_map.csv · 이벤트 docs/scope.md")
-    fig.savefig(ROOT / "figures" / "issuer_concentration.png", dpi=160)
+    fig.supxlabel("출처: DefiLlama DATA-LLAMA-03 · data/issuer_map.csv · 이벤트 research/docs/scope.md")
+    fig.savefig(ROOT / "assets" / "figures" / "issuer_concentration.png", dpi=160)
     plt.close(fig)
 
 
@@ -243,11 +243,11 @@ def concentration_section(daily, meta, events, render=False):
         cells = [number(value) for value in values] + [
             number(metrics_row[col]) for col in ("proxy_hhi", "merged_hhi", "proxy_top2", "proxy_top5")]
         lines.append(f"| {observed.date()} | " + " | ".join(cells) + " |")
-    lines += ["", "</details>", "", "[집중도 차트](../figures/issuer_concentration.png)", ""]
+    lines += ["", "</details>", "", "[집중도 차트](../assets/figures/issuer_concentration.png)", ""]
     return "\n".join(lines)
 
 
 if __name__ == "__main__":
     daily, meta = load_inputs()
     concentration_section(daily, meta, load_events(), render=True)
-    print("Wrote figures/issuer_concentration.png")
+    print("Wrote assets/figures/issuer_concentration.png")

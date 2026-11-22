@@ -142,7 +142,7 @@ def main():
     if manifest["failures"] and not args.allow_partial:
         raise SystemExit("Raw collection incomplete. Retry collection or use --allow-partial.")
     assets = read_json(raw / "stablecoins.json")["peggedAssets"]
-    with (ROOT / "sources" / "sources.csv").open(encoding="utf-8-sig", newline="") as stream:
+    with (ROOT / "research" / "sources" / "sources.csv").open(encoding="utf-8-sig", newline="") as stream:
         source_ids = {row["source_id"] for row in csv.DictReader(stream)}
     price_path = raw / "stablecoinprices.json"
     price_records = read_json(price_path) if price_path.is_file() else []

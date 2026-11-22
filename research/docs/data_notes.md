@@ -1,6 +1,6 @@
 # DefiLlama 스테이블코인 데이터
 
-확인일은 2026-11-22(서울 기준)다. 시계열 날짜는 API의 Unix 초를 UTC 일자로 변환했다. [출처 대장](../sources/sources.csv), [실행 순서](../analysis/README.md), [수집 기록](../data/raw/defillama/2026-11-22/manifest.json), [실행 통계](../data/processed/stablecoin_collection_summary.json).
+확인일은 2026-11-22(서울 기준)다. 시계열 날짜는 API의 Unix 초를 UTC 일자로 변환했다. [출처 대장](../sources/sources.csv), [실행 순서](../../analysis/README.md), 로컬 수집 기록 `data/raw/defillama/2026-11-22/manifest.json`, [실행 통계](../../data/processed/stablecoin_collection_summary.json).
 
 ## 원본과 엔드포인트
 

@@ -134,8 +134,8 @@ def render_pegs(market, events):
         ax.legend(loc="best", ncols=3)
     fig.suptitle("페그 유형별 시총과 비달러 비중 | 코인 전체 체인 차트\n"
                  "수직선: 미국 적색 · EU 청록 · 홍콩 황토 · 한국 보라")
-    fig.supxlabel("출처: DefiLlama DATA-LLAMA-03/05 · 이벤트 docs/scope.md")
-    fig.savefig(ROOT / "figures" / "nonusd_stablecoins.png", dpi=160)
+    fig.supxlabel("출처: DefiLlama DATA-LLAMA-03/05 · 이벤트 research/docs/scope.md")
+    fig.savefig(ROOT / "assets" / "figures" / "nonusd_stablecoins.png", dpi=160)
     plt.close(fig)
 
 
@@ -198,7 +198,7 @@ def nonusd_section(market, events):
               "유효일이 창 길이에 미달하면 비교값을 UNVERIFIED로 둔다. 전 구간 평균이 0이면 "
               "전·후 수준은 표시하고 변동률과 차이는 UNVERIFIED로 둔다. 한국 이벤트는 일반 "
               "가상자산 법령의 시점과 대조하는 참고 사례다. [KR-12, KR-03, DATA-LLAMA-03]", "",
-              "[페그별 시계열 차트](../figures/nonusd_stablecoins.png)", ""]
+              "[페그별 시계열 차트](../assets/figures/nonusd_stablecoins.png)", ""]
     return "\n".join(lines)
 
 
@@ -216,7 +216,7 @@ def main():
         "# Step 4-b 시계열 관찰\n\n"
         "DefiLlama의 코인별 전체 체인 시총을 사용했다. 월별 관측치는 UTC 월의 "
         "마지막 유효일이다. 마지막 월은 관측 시점까지의 값이다. 이벤트는 "
-        "[범위 문서](../docs/scope.md)의 출처가 연결된 제정·서명·발효·적용·시행·"
+        "[범위 문서](../research/docs/scope.md)의 출처가 연결된 제정·서명·발효·적용·시행·"
         "법정 경과 종료·인가 발효에서 가져왔다. 미래 시행 예정일은 표에 두고 "
         "관측 기간 밖의 수직선은 생략했다. 이벤트 당일은 전후 평균에서 제외했다. "
         "기본 창은 ±90일이며 ±60·180일을 함께 대조했다. 창의 모든 날짜에서 "

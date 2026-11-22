@@ -9,7 +9,7 @@ python analysis/02_clean.py --snapshot-date 2026-11-22
 
 첫 스크립트는 같은 스냅샷 폴더에서 이미 저장된 응답을 재사용하므로, 중단 후 같은 명령으로 누락 응답을 다시 받을 수 있다. 다른 날의 데이터를 수집할 때는 해당 날짜를 두 명령에 동일하게 지정한다. `--snapshot-date`는 파일 구분과 정제 기준일로 쓰이며, API를 특정 과거 시점으로 되돌리지 않는다. 두 번째 스크립트는 명시적으로 `--allow-partial`을 지정한 경우에만 일부 응답이 없는 스냅샷을 정제한다.
 
-정제 결과는 `data/processed/`에 저장된다. 필드 정의와 결측 분모는 [데이터 노트](../docs/data_notes.md)에 있다.
+정제 결과는 `data/processed/`에 저장된다. 필드 정의와 결측 분모는 [데이터 노트](../research/docs/data_notes.md)에 있다.
 
 ## Step 4-b 시계열 재실행
 

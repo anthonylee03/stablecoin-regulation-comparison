@@ -12,7 +12,7 @@
 
 ## 연구 질문과 방법
 
-발행 자격, 준비금·상환 의무, 은행의 역할이 발행사와 유통사의 업무 배분과 어떻게 연결되는가? 법령과 감독기관 문서를 우선하여 [규제 매트릭스](../regulation/matrix.csv)에 상태·시행일·원문 인용을 기록했다. [사업 사례](../cases/cases.csv)는 공개 문서에서 확인한 발행·정산·유통 역할을 비교했다. 시장 관찰에는 DefiLlama 전체 체인 시총의 월별 마지막 유효 관측치와 이벤트 전후 일평균을 사용했다. [DATA-LLAMA-02, DATA-LLAMA-03, DATA-LLAMA-04, DATA-LLAMA-05]
+발행 자격, 준비금·상환 의무, 은행의 역할이 발행사와 유통사의 업무 배분과 어떻게 연결되는가? 법령과 감독기관 문서를 우선하여 [규제 매트릭스](../research/regulation/matrix.csv)에 상태·시행일·원문 인용을 기록했다. [사업 사례](../research/cases/cases.csv)는 공개 문서에서 확인한 발행·정산·유통 역할을 비교했다. 시장 관찰에는 DefiLlama 전체 체인 시총의 월별 마지막 유효 관측치와 이벤트 전후 일평균을 사용했다. [DATA-LLAMA-02, DATA-LLAMA-03, DATA-LLAMA-04, DATA-LLAMA-05]
 
 <!-- page -->
 
@@ -47,11 +47,11 @@
 
 ## 데이터 관찰
 
-![차트 1. 발행사 집중도](../figures/issuer_concentration.png)
+![차트 1. 발행사 집중도](../assets/figures/issuer_concentration.png)
 
 **발행사 집중도.** 2026-11-22 관측에서 확인 발행사 커버리지는 96.32%였다. 미확인 코인을 분리한 HHI는 4,367.95, 최대 확인 발행사에 합산한 HHI는 4,833.21이었다. 정확한 전수 HHI는 UNVERIFIED다. 현재 발행사 매핑을 과거에 적용해 발행 주체 승계나 지역별 구조를 놓칠 수 있다. [DATA-LLAMA-03, DATA-LLAMA-05]
 
-![차트 2. 비달러 스테이블코인 시총 및 비중](../figures/nonusd_stablecoins.png)
+![차트 2. 비달러 스테이블코인 시총 및 비중](../assets/figures/nonusd_stablecoins.png)
 
 **비달러 시장.** 같은 관측에서 분석의 비달러 합계 비중은 0.62%였다. MiCA 부분 적용 전후 EUR 시총 증가율에서 USD 시총 증가율을 뺀 값은 ±90일에 +4.24%p, ±180일에 −7.06%p였다. 창 중첩, 신규 발행·상장, 환율과 공통 시장 사이클로도 설명될 수 있다. USD 시장도 규제에 노출될 수 있다. [EU-01, DATA-LLAMA-03, DATA-LLAMA-04, DATA-LLAMA-05]
 
@@ -106,7 +106,7 @@
 
 ## 참고문헌
 
-전체 문헌의 제목·발행기관·원문 URL·확인일은 [출처 대장](../sources/sources.csv)에 있다. 규제 조문의 짧은 원문 인용은 [규제 매트릭스](../regulation/matrix.csv)의 `source_quote`를 참조한다.
+전체 문헌의 제목·발행기관·원문 URL·확인일은 [출처 대장](../research/sources/sources.csv)에 있다. 규제 조문의 짧은 원문 인용은 [규제 매트릭스](../research/regulation/matrix.csv)의 `source_quote`를 참조한다.
 
 - [US-01](https://www.govinfo.gov/content/pkg/PLAW-119publ27/html/PLAW-119publ27.htm) · [US-02](https://www.govinfo.gov/content/pkg/FR-2026-10-23/html/2026-21706.htm) · [US-10](https://www.govinfo.gov/content/pkg/FR-2026-11-09/html/2026-22809.htm)
 - [EU-01](https://eur-lex.europa.eu/eli/reg/2023/1114/oj/eng) · [EU-05](https://www.esma.europa.eu/sites/default/files/2026-04/ESMA75-113276571-1679_Statement_on_the_end_of_transitional_periods_under_MiCA.pdf)
