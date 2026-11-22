@@ -1,0 +1,9 @@
+# Raw source documents and API snapshots
+/sources/raw/
+/data/raw/
+
+# Local collection scratch files
+/.step1-*
+/hello.txt
+/__pycache__/
+__pycache__/

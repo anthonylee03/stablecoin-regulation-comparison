@@ -1,0 +1,454 @@
+﻿coin_id,coin,name,symbol,issuer,issuer_source_id,peg_type,peg_currency,api_peg_type,peg_mechanism,chains
+1,USDT,Tether,USDT,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,0G;Abstract;Algorand;Anubis;ApeChain;Aptos;Arbitrum;Arbitrum Nova;Astar;Aurora;Avalanche;BSC;Base;Berachain;Bittorrent;Boba;CORE;Canto;Cardano;Celo;Citrea;Conflux;Corn;Crab;Data Network;DefiChain;Dogechain;EDU Chain;Ethereum;EthereumClassic;Etherlink;Everscale;Evmos;Fantom;Flare;Flow;Fuse;GOAT;Glue;Gnosis;Gravity by Galxe;Harmony;Heco;Hedera;Hemi;Hyperliquid L1;ICP;IOTA EVM;Immutable zkEVM;Injective;Ink;IoTeX;KCC;Kaia;Kardia;Katana;Kava;Kusama;LightLink;Linea;Loopring;MANTRA;Manta;Mantle;MegaETH;Meter;Metis;Milkomeda C1;Mixin;Mode;Monad;Moonbeam;Moonriver;Morph;Movement;MultiversX;NEO;Near;Nibiru;OKTChain;OP Mainnet;Oasis Emerald;Omni;Osmosis;Peaq;Plasma;Plume Mainnet;Polkadot;Polygon;PulseChain;Rari;Rayls;Redbelly;Reinetwork;Rootstock;SX Network;Scroll;Sei;Shiden;Solana;Somnia;Soneium;Stable;Stacks;Starknet;Statemine;Sui;Swellchain;Syscoin;TON;Taiko;Telos;Tempo;Terra Classic;Tezos;Theta;ThunderCore;Tron;Unichain;Vana;Vaulta;Viction;Wanchain;Waves;X Layer;XDC;ZKsync Era;ZKsync Lite;Zilliqa;Zircuit;Zora
+2,USDC,USD Coin,USDC,Circle,CASE-S01,USD,USD,peggedUSD,fiat-backed,0G;ADI;ALEO;Abstract;Algorand;Anubis;ApeChain;Apex Fusion;Aptos;Arbitrum;Arbitrum Nova;Arc;Astar;Ault;Aurora;Avalanche;BOB;BSC;BSquared;Base;Berachain;Bitlayer;Bittensor EVM;Boba;Botanix;CORE;Camp Network;Canto;Cardano;Celo;Citrea;Codex;Corn;Crab;Cronos;DFK;Data Network;DefiChain;Degen;Dogechain;Doma;EDU Chain;Edu_chain;Elastos;Elysium;Ethereum;EthereumClassic;Etherlink;Everscale;Evmos;Fantom;Flare;Flow;Fogo;Fuse;GOAT;GateLayer;Gensyn;Glue;Gnosis;Gravity by Galxe;Harmony;Hedera;Hemi;Horizen L3;Hyperliquid L1;ICP;IOPn;IOTA EVM;Immutable zkEVM;Injective;Ink;IoTeX;KCC;Kadena;Kaia;Kardia;Karura;Katana;Kava;LightLink;Linea;Lisk;Loopring;MANTRA;Manta;Mantle;MemeCore;Meter;Metis;Milkomeda C1;Mixin;Moca;Mode;Monad;Moonbeam;Moonriver;Morph;Movement;MultiversX;Near;Nero;Nibiru;Noble;OKTChain;OP Mainnet;Oasis Emerald;Orderly Network;Osmosis;Peaq;Perennial;Pharos;Plasma;Plume Mainnet;Polkadot;Polygon;Polygon zkEVM;PulseChain;RISE;Rari;Rayls;Redbelly;Reinetwork;Ronin;Rootstock;SX Network;Scroll;Sei;Shape;Solana;Somnia;Somnia Tokyo;Soneium;Sonic;Stable;Stacks;Starknet;Stellar;Sui;Superposition;Syscoin;Taiko;Telos;Tempo;Terra Classic;Theta;ThunderCore;Tron;Unichain;Vana;Viction;WEMIX3.0;Wanchain;Waves;World Chain;X Layer;XDC;XRPL;Xai;Xc;ZKsync Era;ZKsync Lite;Zircuit;Zkfair;edgeX L1
+146,USDe,Ethena USDe,USDe,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Anubis;Arbitrum;Avalanche;BSC;Base;Berachain;Blast;Ethereum;Fraxtal;Hyperliquid L1;Ink;Kava;Linea;Manta;Mantle;MegaETH;Metis;Mode;Monad;Morph;Movement;OP Mainnet;Plasma;Robinhood Chain;Scroll;Solana;Stellar;Swellchain;TON;Tempo;Tron;X Layer;ZKsync Era;Zircuit
+5,DAI,Dai,DAI,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Anubis;Arbitrum;Arbitrum Nova;Astar;Aurora;Avalanche;Aztec;BSC;Boba;Cardano;EDU Chain;Ethereum;Everscale;Evmos;Fantom;Glue;Gnosis;Harmony;Hemi;KCC;Kaia;Kava;Linea;Loopring;Metis;Milkomeda C1;Mixin;Moonbeam;Moonriver;Morph;Near;OP Mainnet;Oasis Emerald;Osmosis;Polygon;PulseChain;Rootstock;SX Network;Scroll;Shiden;Solana;Starknet;Syscoin;Taiko;Terra Classic;ThunderCore;Unichain;Velas;ZKsync Era;ZKsync Lite
+209,USDS [209],Sky Dollar,USDS,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Anubis;Arbitrum;Avalanche;Base;Ethereum;OP Mainnet;Solana;Unichain
+250,RLUSD,Ripple USD,RLUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Base;Ethereum;Ink;OP Mainnet;Unichain;XRPL
+262,USD1,World Liberty Financial USD,USD1,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Abcore;Aptos;BSC;Ethereum;Mantle;Monad;Plume Mainnet;Solana;Tron
+286,USDG,Global Dollar,USDG,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Arbitrum;Ethereum;Hyperliquid L1;Ink;Mantle;Robinhood Chain;Solana;X Layer
+120,PYUSD,PayPal USD,PYUSD,Paxos,CASE-S03,USD,USD,peggedUSD,fiat-backed,Abstract;Arbitrum;Avalanche;Berachain;Cardano;Codex;Ethereum;Flow;Fraxtal;Glue;IOPn;Ink;KiteAI;OP Mainnet;Plume Mainnet;Polygon;Sei;Solana;Stable;Stellar;Tron;X Layer
+336,U,United Stables,U,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,BSC;Ethereum;Robinhood Chain;Tron
+246,USDf,Falcon USD,USDf,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,BSC;Base;Ethereum;XDC;XRPL EVM
+14,USDD,USDD,USDD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,BSC;Bittorrent;Ethereum;Tron
+347,USDGO,USDGO,USDGO,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Ethereum;Morph;Solana
+443,OUSD [443],Open USD,OUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Base;Ethereum;Solana;Tempo
+340,rwaUSDi,Multipli rwaUSDi,rwaUSDi,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum;Base;Ethereum;Mantle;Monad;Pharos;Robinhood Chain;X Layer
+195,USD0,Usual USD,USD0,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Arbitrum;Ethereum
+406,pUSD [406],Polymarket USD,pUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Polygon
+7,TUSD,TrueUSD,TUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Arbitrum;Avalanche;BSC;Ethereum;Fantom;Heco;Near;Polygon;Syscoin;Tron
+12,USDN [12],Neutrino USD,USDN,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,algorithmic,BSC;Ethereum;Polygon;Waves
+272,YLDS,YLDS,YLDS,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Provenance;Stellar;Tempo
+430,SOFID,SoFiUSD,SOFID,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Ethereum;Monad;Polygon;Solana;Tempo
+221,USDTB,Ethena USDtb,USDTB,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Ethereum;Solana
+306,GUSD [306],Gate USD,GUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Ethereum
+213,M,M by M0,M,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Arbitrum;Ethereum;Hyperliquid L1;Monad;Noble;OP Mainnet;Plume Mainnet;Solana
+119,FDUSD,First Digital USD,FDUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Arbitrum;BSC;Ethereum;Solana;Sui;TON
+118,GHO,GHO,GHO,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum;Avalanche;Base;Ethereum;Gnosis;Ink;Mantle;Monad;Plasma;X Layer
+354,apxUSD,apxUSD,apxUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,BSC;Base;Ethereum;Monad;Solana
+153,BUSD [153],Binance Peg BUSD,BUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Astar;Aurora;Avalanche;BSC;Boba;Elastos;Evmos;Fantom;KCC;Kaia;Meter;Metis;Milkomeda C1;Moonbeam;Moonriver;OKTChain;OP Mainnet;Oasis Emerald;Polygon;Rootstock;Shiden;Solana;Syscoin;Terra Classic;Theta;ThunderCore;ZKsync Era
+310,USX [310],Solstice USX,USX,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Solana
+110,crvUSD,crvUSD,crvUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum;BSC;Base;Ethereum;Fraxtal;Gnosis;OP Mainnet;Polygon;Sonic;Taiko;Waves;ZKsync Era
+17,HUSD,HUSD,HUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Ethereum;Solana;Tron
+343,USAT,USAT,USAT,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Ethereum
+205,AUSD,Agora Dollar,AUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Arbitrum;Avalanche;BSC;CORE;Ethereum;Immutable zkEVM;Katana;Mantle;Monad;Plasma;Plume Mainnet;Polygon;Solana;Sui
+21,FLEXUSD,flexUSD,FLEXUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum;smartBCH
+309,USDai,USD.AI,USDai,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum;Ethereum;Plasma
+328,MUST,Mustang Finance,MUST,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Saga
+220,USDA [220],Avalon USDa,USDA,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Avalanche;BOB;BSC;Base;Berachain;Bitlayer;Corn;Ethereum;Kaia;Mantle;Mode;Morph;Movement;Nibiru;Sei;Sonic;Taiko;ZKsync Era;Zircuit
+316,CASH [316],CASH,CASH,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Hyperliquid L1;Solana
+15,DOLA,Dola,DOLA,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum;Avalanche;BSC;Base;Ethereum;Fantom;OP Mainnet;Polygon
+219,USDF,Astherus,USDF,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,BSC
+398,USDV [398],Valtorum USD,USDV,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,BSC;Base;Polygon;Stellar;Tron;XRPL
+315,USPD,US Permissionless Dollar,USPD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum;BSC;Base;Ethereum;OP Mainnet;Polygon
+389,MOVEUSD,CFX MoveUSD,MOVEUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Solana
+400,USDAT,Saturn Dollar,USDAT,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,BSC;Ethereum;Monad
+271,avUSD,Avant USD,avUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Avalanche;Monad
+235,FRXUSD,Frax USD,FRXUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Abstract;Aptos;Arbitrum;Aurora;Avalanche;BSC;Base;Berachain;Blast;Ethereum;Fraxtal;Hyperliquid L1;Ink;Katana;Linea;Mode;Monad;Movement;OP Mainnet;Plume Mainnet;Polygon;Polygon zkEVM;Scroll;Sei;Solana;Sonic;Stable;Tempo;Unichain;World Chain;X Layer;ZKsync Era
+401,trUSD,Tori trUSD,trUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum;Ethereum;Monad;Pharos;Solana
+466,SQUSD,Squads USD,SQUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Solana
+405,USDA [405],AP USDA,USDA,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,BSC
+166,cgUSD,Cygnus Finance Global USD,cgUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Base
+79,LISUSD,Lista USD,LISUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,BSC
+373,USDSUI,Sui Dollar,USDSUI,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Sui
+298,IUSD [298],infiniFi USD,IUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum;Monad;Tempo
+22,SUSD,sUSD,SUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum;Ethereum;Fantom;OP Mainnet;Ontology
+6,FRAX,Frax,FRAX,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,algorithmic,Arbitrum;Aurora;Avalanche;BSC;Boba;Dogechain;Ethereum;Everscale;Evmos;Fantom;Harmony;Milkomeda C1;Moonbeam;Moonriver;Near;OP Mainnet;Osmosis;Polygon;Solana;ZKsync Era;ZKsync Lite
+442,USDx,Axis USD,USDx,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+408,USDon,Ondo U.S. Dollar Token,USDon,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,BSC;Ethereum
+97,USP [97],USP Stablecoin,USP,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Avalanche
+439,USDB [439],USDBridge,USDB,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Base;Ethereum;Solana;Tempo
+467,USDS [467],ARQ USDs,USDS,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Tempo
+413,SPUSD,SoulPeg USD,SPUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,BSC
+296,CUSD [296],Cap cUSD,CUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum;MegaETH;Tempo
+409,USDKG,USDKG,USDKG,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Ethereum;Tron
+407,UUSD [407],Unity USD,UUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,BSC
+348,FIDD,Fidelity Digital Dollar,FIDD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Ethereum
+297,MSUSD [297],Main Street USD,MSUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum;Sonic
+290,XUSD [290],StraitsX XUSD,XUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,BSC;Ethereum
+284,MNEE,MNEE USD,MNEE,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Ethereum
+326,MSUSD [326],Metronome Synth USD,MSUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Base;Ethereum;OP Mainnet;Plasma
+283,USDU [283],Unitas,USDU,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,BSC;Solana
+230,USN [230],Noon USN,USN,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum;Sophon;ZKsync Era
+335,JUPUSD,JupUSD,JUPUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Solana
+313,MUSD [313],Metamask USD,MUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,BSC;Ethereum;Linea;Monad
+332,pmUSD,pmUSD,pmUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+256,REUSD,Resupply USD,REUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+19,GUSD [19],Gemini Dollar,GUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Ethereum;Wanchain
+255,YUSD [255],Aegis YUSD,YUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,BSC;Ethereum
+4,BUSD [4],Binance USD,BUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Astar;Aurora;Avalanche;BSC;Boba;Elastos;Ethereum;EthereumClassic;Evmos;Fantom;Harmony;IoTeX;KCC;Kaia;Loopring;Meter;Metis;Milkomeda C1;Moonbeam;Moonriver;Near;OKTChain;Oasis Emerald;Osmosis;Polygon;Rootstock;Shiden;Solana;Syscoin;Terra Classic;Theta;ThunderCore;ZKsync Era
+67,BEAN,Bean,BEAN,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,algorithmic,Ethereum
+410,USDU [410],Universal USD,USDU,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Ethereum
+385,pathUSD,PathUSD,pathUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Tempo
+344,YZUSD,Yuzu USD,YZUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Monad;Plasma
+225,ZeUSD,Zoth ZeUSD,ZeUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Avalanche;Ethereum;Manta;Metis
+269,BOLD [269],Liquity BOLD,BOLD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum;Avalanche;Base;Ethereum;Hyperliquid L1;OP Mainnet;Scroll
+185,GYD,Gyroscope GYD,GYD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum;Polygon
+8,LUSD,Liquity USD,LUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum;Avalanche;BSC;Ethereum;Fantom;OP Mainnet;Polygon;Polygon zkEVM;Scroll;ZKsync Era
+106,EUSD [106],Electronic USD,EUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum;Base;Ethereum
+468,USDCBL,Decibel Dollar,USDCBL,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Aptos
+469,MGUSD,MoneyGram USD,MGUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Stellar
+268,YU,YU,YU,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,BSC;Base;Ethereum;Solana
+346,NUSD [346],Neutrl USD,NUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+11,USDP [11],Pax Dollar,USDP,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,BSC;Ethereum;Linea;Solana
+305,UTY,XSY UTY,UTY,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Avalanche
+44,USX [44],dForce USD,USX,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum;Avalanche;BSC;Base;Conflux;Ethereum;Kava;OP Mainnet;Polygon
+342,USDM [342],MegaUSD,USDM,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum;MegaETH
+302,HYUSD [302],Hylo HYUSD,HYUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Solana
+63,FUSD [63],Fantom USD,FUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Fantom
+303,MUSD [303],Mezo USD,MUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum;Mezo
+464,rcUSD,R25 rcUSD,rcUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Sui
+31,USDS [31],SpiceUSD,USDS,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,algorithmic,Avalanche;BSC;Ethereum;Polygon
+470,TAKO,Takenos USD,TAKO,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Solana
+218,satUSD,River Stablecoin,satUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum;BEVM;BOB;BSC;BSquared;Base;Bitlayer;Ethereum;Hemi;Sonic;X Layer
+411,USDSM,Stable Mint USD,USDSM,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Arbitrum;Base;Ethereum;Etherlink
+85,USDR [85],Real USD,USDR,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,algorithmic,Polygon;re.al
+327,AZND,Mu Digital AZND,AZND,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Monad
+353,AID,GAIB AID,AID,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Arbitrum;BSC;Base;Ethereum
+386,USDPT,Western Union USDPT,USDPT,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Solana
+24,USDm,Mento Dollar,USDm,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,algorithmic,Celo;Ethereum;Kaia;Monad;Solana
+154,BUCK,Bucket Protocol BUCK Stablecoin,BUCK,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Sui
+263,USDX [263],Hex Trust USDX,USDX,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Ethereum;Flare;Songbird
+168,fxUSD,fxUSD,fxUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Base;Ethereum
+417,MONEY [417],Defi.money,MONEY,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum;Base;OP Mainnet
+241,USDO,OpenDollar USDO,USDO,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,BSC;Base;Ethereum;Plasma
+13,YUSD [13],YUSD Stablecoin,YUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Avalanche
+312,HOLLAR,Hydrated Dollar,HOLLAR,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Hydration
+215,USDM [215],Moneta USDM,USDM,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Cardano
+307,USDCV,USD CoinVertible,USDCV,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Ethereum;Solana
+376,suiUSDe,eSui Dollar,suiUSDe,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Sui
+324,SBC,Stable Coin,SBC,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Arbitrum;Avalanche;Base;Celo;Ethereum;EthereumClassic;OP Mainnet;Polygon;Solana;Stellar;Tempo
+232,PINTO,Pinto,PINTO,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Base
+115,R,R,R,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Base;Ethereum
+308,D,Saga Dollar,D,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Saga
+20,ALUSD,Alchemix USD,ALUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,algorithmic,Arbitrum;Ethereum;Fantom;OP Mainnet
+416,eUSD [416],Telcoin eUSD,eUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Base;Ethereum;Polygon;Solana
+42,USDX [42],USDX,USDX,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Kava
+244,USDL [244],Lift Dollar,USDL,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Arbitrum;Ethereum
+415,RUSD [415],Royal Dollar,RUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,BSC;Ethereum;Tron
+261,USDV [261],Solomon USDv,USDV,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Solana
+172,USDB [172],USDB Blast,USDB,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Blast
+471,LAVAUSD,LavaUSD,LAVAUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Solana
+103,NXUSD,NXUSD,NXUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Avalanche;Polygon
+251,FEUSD,Felix feUSD,FEUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Hyperliquid L1
+253,USBD,USBD,USBD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,BSC;CORE;Ethereum;GOAT;Hemi;Plume Mainnet;Sonic
+202,USDz,Anzen USDz,USDz,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Base;Blast;Ethereum;Manta
+240,USDR [240],StablR USD,USDR,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Ethereum
+472,USDL [472],Lisk USD,USDL,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Base
+418,cdxUSD,Cod3x USD,cdxUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Base
+60,HOME,HomeCoin,HOME,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+23,OUSD [23],Origin Dollar,OUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+445,USDRF,RealFi USDrf,USDRF,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Cardano
+231,BUSD [231],Bera USD,BUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Berachain
+421,ftUSD,Flying Tulip USD,ftUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,BSC;Ethereum;Sonic
+183,BtcUSD,Bitcoin USD,BtcUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Base;Bifrost Network
+391,USDST,USDST,USDST,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Strato Chain
+252,DUSD [252],StandX DUSD,DUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,BSC;Solana
+89,XAI,XAI,XAI,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+321,USDH [321],USDH Stablecoin,USDH,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Hyperliquid L1
+440,DLUSD,Deel USD,DLUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Base;Tempo
+214,USDX [214],USDX Money USDX,USDX,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum;BSC;Ethereum
+350,ctUSD,Citrea USD,ctUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Citrea
+420,USDSC,Startale USD,USDSC,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Soneium
+16,PAI,Parrot USD,PAI,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Solana
+435,USDR [435],USDR,USDR,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,RISE
+9,FEI,Fei USD,FEI,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,algorithmic,Ethereum
+245,USDA [245],Anzens USDA,USDA,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Cardano
+465,USD+ [465],Dinari USD+,USD+,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Arbitrum;Base;Ethereum;Plume Mainnet
+314,PUSD [314],Palm USD,PUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,BSC;Ethereum;Solana;Tron
+70,DUSD [70],DigitalDollar,DUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Arbitrum
+378,USDso,USD Somnia,USDso,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Somnia;Somnia Tokyo
+404,USDM [404],Monetrix USDM,USDM,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Hyperliquid L1
+45,aSEED,aUSD Seed,aSEED,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Acala;Karura
+33,USDP [33],USDP Stablecoin,USDP,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,BSC;Ethereum;Fantom;Gnosis
+242,USDH [242],Hermetica USDh,USDH,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Stacks
+390,FUSD [390],FinChain Dollar,FUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Avalanche;Ethereum;Monad;Sonic;exSat
+30,DOC,Dollar on Chain,DOC,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum;Ethereum;Rootstock
+236,syUSD,Synnax Stablecoin,syUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Sei
+159,USDRIF,RIF US Dollar,USDRIF,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Rootstock
+275,USDQ [275],Quantoz USDQ,USDQ,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Algorand;Ethereum;Polygon;XRPL
+473,USDV [473],Veem USD,USDV,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Solana
+18,NUSD [18],Nexus USD,NUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum;Aurora;Avalanche;BSC;Boba;Cronos;DFK;Ethereum;Fantom;Harmony;Metis;OP Mainnet;Polygon
+26,MUSD [26],mStable USD,MUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum;Gnosis;Polygon
+388,iUSD,Initia iUSD,iUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crytpo-backed,Initia
+366,DUSD [366],Alto DUSD,DUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+426,USD+ [426],Streamflow USD+,USD+,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Solana
+266,pUSD [266],Plume USD,pUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum;Plume Mainnet
+76,USDI [76],Interest Protocol,USDI,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+425,FUSD [425],The Fedz FUSD,FUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum
+83,USDW,USDW,USDW,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,EthereumPoW
+132,USDM [132],USDM,USDM,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Arbitrum;Base;Ethereum;OP Mainnet;Polygon;ZKsync Era
+282,USDN [282],Noble Dollar,USDN,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Noble
+78,NOTE,Note,NOTE,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Canto
+151,zkUSD,zkUSD Dollar,zkUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,ZKsync Era
+88,IUSD [88],iUSD,IUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Cardano
+28,VAI,Vai,VAI,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,BSC
+75,UUSD [75],Youves uUSD,UUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Tezos
+65,USDH [65],USDH,USDH,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Solana
+474,DKUSD,Dakota USD,DKUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Base
+432,rwaUSD,Multipli rwaUSD,rwaUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Base;Ethereum;Ink;Mantle;Monad;Robinhood Chain;X Layer
+152,USDL [152],Liquid Loans USDL,USDL,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,PulseChain
+397,beatUSD,Hyperbeat USD,beatUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Hyperliquid L1
+204,BNUSD,Balanced Dollars,BNUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum;Archway;Avalanche;BSC;Base;Havah;Icon;Injective;OP Mainnet
+155,USDGLO,Glo Dollar,USDGLO,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Arbitrum;Base;Celo;Ethereum;OP Mainnet;Polygon;Stellar;VeChain
+356,USSD,US Sonic Dollar,USSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Sonic
+107,CZUSD,Czodiac USD,CZUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,BSC
+92,PINA,Meme Dollar,PINA,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,algorithmic,Ethereum
+93,DJED,Djed StableCoin,DJED,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,algorithmic,Cardano
+291,USDp,Parallel USDp,USDp,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum;Avalanche;BSC;Base;Berachain;Ethereum;Fraxtal;Gnosis;Hemi;Hyperliquid L1;Ink;Katana;Linea;OP Mainnet;Plasma;Plume Mainnet;Polygon;Scroll;Sei;Sonic;TAC;Unichain;World Chain;X Layer
+377,USDnr,Nerona USD,USDnr,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Ethereum;Fluent
+349,USP [349],Pareto USP,USP,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+192,USDA [192],Angle USDA,USDA,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+447,URM,URM,URM,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Base
+162,XUSD [162],XUSD,XUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Rootstock
+216,sUSD,Solayer USD,sUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Solana
+10,MIM,Magic Internet Money,MIM,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum;Avalanche;BSC;Base;Berachain;Blast;Ethereum;Fantom;Kava;Linea;Moonriver;Nibiru;OP Mainnet;Polygon
+234,WUSD,Worldwide USD,WUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Ethereum;Polygon
+277,USDN [277],SMARDEX USDN,USDN,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+341,PUSD [341],Pleasing USD,PUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum
+160,DLLR,Sovryn Dollar,DLLR,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Rootstock
+125,eUSD(v2),eUSD (V2),eUSD(v2),UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+211,THUSD,Threshold USD,THUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+176,FXD,Fathom Dollar,FXD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,XDC
+285,GGUSD,Good Game US Dollar,GGUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,BSC;Polygon;Solana
+72,KUSD,Kolibri USD,KUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Tezos
+32,USDS [32],Sperax USD,USDS,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum
+278,WEUSD,WEUSD,WEUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum;BSC;Base;Movement
+27,USDK [27],USDK,USDK,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Ethereum;OKTChain;Polygon;Solana
+46,USD+ [46],Overnight USD+,USD+,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum;Avalanche;BSC;Base;Blast;Linea;OP Mainnet;Polygon;ZKsync Era
+431,USDV [431],Delpho USDV,USDV,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Hyperliquid L1
+143,USDV [143],Verified USD,USDV,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Arbitrum;Avalanche;BSC;Ethereum;OP Mainnet;Polygon;Viction
+333,mantraUSD,mantraUSD,mantraUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,MANTRA
+224,dUSD,dTRINITY USD,dUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum;Fraxtal;Katana;Ronin;Sonic
+229,LVLUSD,Level USD,LVLUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+441,FRNT,Frontier Stable Token,FRNT,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Arbitrum;Avalanche;Base;Ethereum;OP Mainnet;Polygon;Solana
+180,BREAD,Bread,BREAD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Gnosis
+293,BNBUSD,Sigma Money bnbUSD,BNBUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,BSC
+394,invUSD,invUSD Stablecoin,invUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+238,SCUSD,Rings scUSD,SCUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Sonic
+181,zunUSD,Zunami USD,zunUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+64,UXD,UXD Stablecoin,UXD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,algorithmic,Solana
+206,CASH [206],Opus CASH,CASH,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Starknet
+475,USD2,USD II,USD2,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Base
+29,TOR,TOR,TOR,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Fantom
+304,USDU [304],USDU Finance,USDU,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+37,USDJ,USDJ,USDJ,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Tron
+175,PXDC,PXDC Stablecoin,PXDC,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,PulseChain
+191,bitUSD,bitSmiley USD,bitUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Bitlayer
+48,BAI,BAI Stablecoin,BAI,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Astar
+126,mkUSD,mkUSD,mkUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+174,rUSD [174],rUSD,rUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+112,USDT+,USDT+,USDT+,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum;BSC;Linea
+198,aUSD,Stable Jack aUSD,aUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Avalanche
+217,rUSD [217],Reservoir Stablecoin,rUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Arbitrum;Avalanche;BSC;Base;Berachain;Ethereum;Hyperliquid L1;Katana;Linea;Monad;Plume Mainnet;Sei;Solana;Sonic;Tempo;Unichain;World Chain
+164,USDCB,USDCB,USDCB,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Rootstock
+197,USR,Resolv USD,USR,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,BSC;Base;Berachain;Ethereum;Hyperliquid L1;Soneium
+135,IST,Inter Stable Token,IST,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Agoric;Osmosis
+329,NECT,Nectar,NECT,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Berachain
+25,RSV,Reserve,RSV,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum;Gnosis
+227,BOLD [227],Legacy BOLD,BOLD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum;Avalanche;Base;Ethereum;OP Mainnet;Scroll
+323,KEI,KEI Stablecoin,KEI,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Hyperliquid L1
+295,USDaf [295],Asymmetry USDaf V2,USDaf,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+68,USDL [68],USDLemma,USDL,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,algorithmic,Arbitrum;OP Mainnet
+130,SVUSD,Savvy USD,SVUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Arbitrum
+449,USDN [449],Nova USD,USDN,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Ethereum
+116,GRAI,GRAI,GRAI,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum;Ethereum;Linea;Mantle;OP Mainnet;Polygon zkEVM;ZKsync Era
+419,elUSD,Elara USD,elUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+59,SIGUSD,SigmaUSD,SIGUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,algorithmic,Ergo
+34,USDB [34],USD Balance,USDB,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,algorithmic,Fantom
+476,USDSL,USD Slash,USDSL,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Base
+484,eUSD [484],Own eUSD,eUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Robinhood Chain
+337,USE,USE,USE,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,algorithmic,Ergo
+248,USDFC,USDFC,USDFC,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Filecoin
+104,DUSD [104],Davos Protocol,DUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum;BSC;Ethereum;OP Mainnet;Polygon
+38,STBL,STBL,STBL,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Algorand
+144,HYUSD [144],High Yield USD,HYUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,algorithmic,Base;Ethereum
+73,USDTZ,USDtez,USDTZ,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Tezos
+54,USN [54],USN,USN,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,algorithmic,Aurora;Near
+228,USDQ [228],Quill USD,USDQ,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Scroll
+124,peUSD,peg-eUSD,peUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum;Ethereum
+322,USDXL,Last USD,USDXL,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Hyperliquid L1
+233,USDS [233],TheStandard USD,USDS,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum
+374,phUSD,Phoenix USD,phUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+311,IAUSD,iAUSD,IAUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Solana
+109,EUSD [109],eUSD,EUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+438,UST1,UST1,UST1,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Terra Classic
+184,WEN,Magma Wen,WEN,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,IoTeX
+71,VST,Vesta Stable,VST,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum
+82,ARUSD,arUSD,ARUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Avalanche
+149,USDS [149],Sable Coin,USDS,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,BSC;Base
+142,HYDT,HYDT,HYDT,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,algorithmic,BSC
+99,CASH [99],Stabl.fi Cash,CASH,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Polygon
+148,MyUSD,Mynth MyUSD,MyUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,algorithmic,Cardano
+123,STAR,STAR,STAR,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum;Base;Polygon
+188,USC [188],Orby USC,USC,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Cronos
+264,USDE,XBANKING USDE,USDE,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Solana
+294,USDA+,NonDollar,USDA+,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Base;OP Mainnet
+117,ERN,Ethos Reserve Note,ERN,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,OP Mainnet
+357,BYC,Bytecash,BYC,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Chia
+90,RUSD [90],Redeemable USD,RUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Cardano
+57,USH [57],Hedge USD,USH,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Solana
+96,CUSD [96],Coin98 Dollar,CUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,BSC;Ethereum;Solana
+260,VUSD,VDollar Finance,VUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Base;Ethereum;Hemi
+433,HRUSD,HRUSD,HRUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Base
+207,DYAD,Dyad,DYAD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+364,WAD,Whale Asset Dollar,WAD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Algorand;Voi Network
+434,BD,Base Dollar,BD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Base
+201,HEXDC,HEX Dollar Coin,HEXDC,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,PulseChain
+138,eUSD [138],ARYZE eUSD,eUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,BSC;Ethereum;Polygon
+287,USND,Nerite USND,USND,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum
+94,BAOUSD,BaoUSD,BAOUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+58,3USD,3USD,3USD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Karura
+114,clevUSD,CLever USD,clevUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+100,DSU,Digital Standard Unit,DSU,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum;Ethereum;OP Mainnet
+84,BOB,BOB,BOB,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum;BSC;Ethereum;OP Mainnet;Polygon
+477,USDL [477],Linea USD,USDL,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Linea
+111,DAI+,DAI+,DAI+,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum;Base;OP Mainnet
+177,UNO,UNO,UNO,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Starknet
+338,FUSD [338],Fuse Dollar V3,FUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Fuse
+43,ZUSD,ZUSD,ZUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Arbitrum;Ethereum;OP Mainnet;Solana;Stellar
+189,btcUSD,btcUSD,btcUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+74,MONEY [74],Moremoney USD,MONEY,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Avalanche
+276,USH [276],Hyperstable USD,USH,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Hyperliquid L1
+169,GAI,GAI Stablecoin,GAI,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Manta
+212,MOD,Move Dollar,MOD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Aptos
+478,AFRI,AFRi,AFRI,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Solana
+163,ULTRA,PrismaLRT Ultra,ULTRA,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+267,MEAD,Mead,MEAD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Berachain
+479,GUSD [479],GAIA USD,GUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Solana
+288,EBUSD,EBUSD,EBUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum;Plasma
+208,DCKUSD,Dackie USD,DCKUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,algorithmic,Base
+190,rgUSD,Revenue Generating USD,rgUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum;Base;Ethereum
+259,MSD,Arche Protocol MSD,MSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Movement
+102,ANONUSD,Offshift anonUSD,ANONUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,algorithmic,Ethereum
+196,USC [196],Classic USD,USC,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,EthereumClassic;Polygon
+193,USC [193],Chi USC,USC,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+62,PUSD [62],PUSd,PUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+301,JUSD,Jigsaw USD,JUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+222,PAUSD,Parallel USD,PAUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum;Polygon
+128,NEX,Nexus,NEX,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,algorithmic,Arbitrum;Ethereum
+81,USK,USK,USK,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Kujira;Osmosis
+223,XY,TREN Debt Token,XY,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum
+61,FIAT,Fixed Income Asset Token,FIAT,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+87,USDI [87],USDi,USDI,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+482,GDUS,Global Dollars,GDUS,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Polygon
+273,USDaf [273],Asymmetry USDaf,USDaf,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum
+403,BPD,Money Protocol,BPD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Rootstock
+265,USDK [265],Orki USD,USDK,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Swellchain
+279,paraUSD,Parabol USD,paraUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Base
+396,USDeAD,Deaderal Reserve Note,USDeAD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum;BSC;Base;Ethereum;Hyperliquid L1;MegaETH;Monad;OP Mainnet;Scroll;Solana;Tron
+345,USDU [345],Uncap USD,USDU,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Starknet
+150,SCB,USD Stable Colb,SCB,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Polygon
+483,FND,Frontier Dollar,FND,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Base
+480,PYREUSD,Pyre Dollar,PYREUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Base
+318,litUSD,litUSD,litUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Ethereum
+121,sLSD,PSY,sLSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Arbitrum
+481,USDZ,Blitz USD,USDZ,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Solana
+330,xpUSD,Gaming XP USD,xpUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Avalanche;Ethereum
+402,kUSD,Kerne USD,kUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Base
+108,d2O,Deuterium,d2O,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Ethereum;Moonbeam
+134,CASH [134],Phase Dollar,CASH,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,Base
+395,FUSD [395],fUSD,FUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,fiat-backed,BSC;Ethereum
+203,cUSD,Chad USD,cUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Scroll
+320,USDR [320],Rocky USDr,USDR,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Sei
+375,USDMO,Monet USDmo,USDMO,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Eden
+210,DEUSD,Elixir deUSD,DEUSD,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,crypto-backed,Avalanche;Ethereum;Polygon;Sei
+3,USTC,TerraClassicUSD,USTC,UNVERIFIED,UNVERIFIED,USD,USD,peggedUSD,algorithmic,Arbitrum;Aurora;Avalanche;BSC;Celo;DFK;Ethereum;Fantom;Fuse;Metis;Moonbeam;OP Mainnet;Oasis Emerald;Osmosis;Polygon;Solana;Terra Classic
+39,VOLT,VOLT Protocol,VOLT,UNVERIFIED,UNVERIFIED,OTHER,UNVERIFIED,peggedVAR,algorithmic,Arbitrum;Ethereum
+40,RAI,Rai Reflex Index,RAI,UNVERIFIED,UNVERIFIED,OTHER,UNVERIFIED,peggedVAR,crypto-backed,Arbitrum;Avalanche;Ethereum;Gnosis;Loopring;OP Mainnet;Polygon
+41,FLOAT,Float Protocol Float,FLOAT,UNVERIFIED,UNVERIFIED,OTHER,UNVERIFIED,peggedVAR,algorithmic,Ethereum
+49,EURT,Euro Tether,EURT,UNVERIFIED,UNVERIFIED,EUR,EUR,peggedEUR,fiat-backed,Ethereum;Polygon
+50,EURC,EURC,EURC,UNVERIFIED,UNVERIFIED,EUR,EUR,peggedEUR,fiat-backed,Arc;Avalanche;Base;Cardano;Cronos;Ethereum;ICP;Plasma;Polygon;Solana;Sonic;Stellar;Tempo;World Chain
+51,EURS,Stasis Euro,EURS,UNVERIFIED,UNVERIFIED,EUR,EUR,peggedEUR,fiat-backed,Algorand;Ethereum;Everscale;Gnosis;Polygon;Stellar
+52,EURm,Mento Euro,EURm,UNVERIFIED,UNVERIFIED,EUR,EUR,peggedEUR,algorithmic,Celo;Ethereum;Monad;Polygon;Solana
+53,SEUR,sEUR,SEUR,UNVERIFIED,UNVERIFIED,EUR,EUR,peggedEUR,crypto-backed,Ethereum;OP Mainnet
+55,EURA,EURA,EURA,UNVERIFIED,UNVERIFIED,EUR,EUR,peggedEUR,crypto-backed,Arbitrum;Aurora;Ethereum;Fantom;Fuse;OP Mainnet;Polygon;Solana;ZKsync Lite
+56,PAR,Parallel,PAR,UNVERIFIED,UNVERIFIED,EUR,EUR,peggedEUR,crypto-backed,Ethereum;Fantom;Polygon
+66,FPI,Frax Price Index,FPI,UNVERIFIED,UNVERIFIED,OTHER,UNVERIFIED,peggedVAR,algorithmic,Ethereum;ZKsync Era
+91,IBEUR,Iron Bank EURO,IBEUR,UNVERIFIED,UNVERIFIED,EUR,EUR,peggedEUR,crypto-backed,Ethereum
+98,EUROe,EUROe Stablecoin,EUROe,UNVERIFIED,UNVERIFIED,EUR,EUR,peggedEUR,fiat-backed,Arbitrum;Avalanche;Concordium;Ethereum;OP Mainnet;Polygon;Solana
+101,EURE,Monerium EUR emoney,EURE,UNVERIFIED,UNVERIFIED,EUR,EUR,peggedEUR,fiat-backed,Algorand;Arbitrum;Base;Ethereum;Gnosis;Linea;Noble;Polygon;Scroll
+105,DCHF,DeFi Franc,DCHF,UNVERIFIED,UNVERIFIED,OTHER,UNVERIFIED,peggedVAR,crypto-backed,Ethereum
+113,SILK,SILK,SILK,UNVERIFIED,UNVERIFIED,OTHER,UNVERIFIED,peggedVAR,crypto-backed,Secret
+122,GYEN,GYEN,GYEN,UNVERIFIED,UNVERIFIED,OTHER,JPY,peggedJPY,fiat-backed,Arbitrum;Ethereum;OP Mainnet;Solana;Stellar
+127,LCNY,Alternity CNY,LCNY,UNVERIFIED,UNVERIFIED,OTHER,CNY,peggedCNY,crypto-backed,Ethereum
+131,UAHT,UAHT,UAHT,UNVERIFIED,UNVERIFIED,OTHER,UAH,peggedUAH,fiat-backed,Polygon
+133,NARS,NARS,NARS,UNVERIFIED,UNVERIFIED,OTHER,ARS,peggedARS,fiat-backed,Polygon
+137,CDT,Collateralized Debt Token,CDT,UNVERIFIED,UNVERIFIED,OTHER,UNVERIFIED,peggedVAR,crypto-backed,Osmosis
+139,eEUR,ARYZE eEUR,eEUR,UNVERIFIED,UNVERIFIED,EUR,EUR,peggedEUR,fiat-backed,BSC;Ethereum;Polygon
+140,eGBP,ARYZE eGBP,eGBP,UNVERIFIED,UNVERIFIED,OTHER,GBP,peggedGBP,fiat-backed,BSC;Ethereum;Polygon
+145,CADC,CAD Coin,CADC,UNVERIFIED,UNVERIFIED,OTHER,CAD,peggedCAD,fiat-backed,Arbitrum;Base;Ethereum;Polygon
+147,AEUR,Anchored Coins AEUR,AEUR,UNVERIFIED,UNVERIFIED,EUR,EUR,peggedEUR,fiat-backed,BSC;Ethereum
+157,VCHF,VNX Swiss Franc,VCHF,UNVERIFIED,UNVERIFIED,OTHER,CHF,peggedCHF,fiat-backed,Arbitrum;Avalanche;Base;Celo;Ethereum;Fraxtal;ICP;Polygon;Q Protocol;Solana;Stellar;Tezos
+158,VEUR,VNX EURO,VEUR,UNVERIFIED,UNVERIFIED,EUR,EUR,peggedEUR,fiat-backed,Arbitrum;Avalanche;Base;Celo;Ethereum;Fraxtal;Polygon;Q Protocol;Solana;Stellar;Tezos
+161,EURD,Quantoz EURD,EURD,UNVERIFIED,UNVERIFIED,EUR,EUR,peggedEUR,fiat-backed,Algorand
+165,AUDD,AUDD,AUDD,UNVERIFIED,UNVERIFIED,OTHER,AUD,peggedAUD,fiat-backed,Arc;Base;Ethereum;Hedera;Redbelly;Solana;Stellar;XDC;XRPL
+167,fETH,Fractional ETH,fETH,UNVERIFIED,UNVERIFIED,OTHER,UNVERIFIED,peggedVAR,crypto-backed,Ethereum
+170,EURO3,EURO3,EURO3,UNVERIFIED,UNVERIFIED,EUR,EUR,peggedEUR,crypto-backed,Linea;Polygon
+171,HAI,Lets Get HAI,HAI,UNVERIFIED,UNVERIFIED,OTHER,UNVERIFIED,peggedVAR,crypto-backed,OP Mainnet
+179,CJPY,CJPY,CJPY,UNVERIFIED,UNVERIFIED,OTHER,JPY,peggedJPY,crypto-backed,Ethereum
+182,zunETH,Zunami ETH,zunETH,UNVERIFIED,UNVERIFIED,OTHER,UNVERIFIED,peggedVAR,crypto-backed,Ethereum
+199,BRLm,Mento Real,BRLm,UNVERIFIED,UNVERIFIED,OTHER,BRL,peggedREAL,crypto-backed,Celo
+200,HCHF,Hedera Swiss Franc,HCHF,UNVERIFIED,UNVERIFIED,OTHER,CHF,peggedCHF,crypto-backed,Hedera
+226,ZCHF,Frankencoin,ZCHF,UNVERIFIED,UNVERIFIED,OTHER,CHF,peggedCHF,crypto-backed,Arbitrum;Avalanche;Base;Ethereum;Gnosis;OP Mainnet;Polygon;Sonic
+239,EURR [239],StablR Euro,EURR,UNVERIFIED,UNVERIFIED,EUR,EUR,peggedEUR,fiat-backed,Ethereum;Solana
+247,EUROP,Schuman EUROP,EUROP,UNVERIFIED,UNVERIFIED,EUR,EUR,peggedEUR,fiat-backed,Avalanche;Ethereum;Plasma;Polygon;Solana;XRPL
+254,EURCV,EUR CoinVertible,EURCV,Société Générale–FORGE,CASE-S12,EUR,EUR,peggedEUR,fiat-backed,Ethereum;Solana;Stellar;XRPL
+258,A7A5,A7A5,A7A5,UNVERIFIED,UNVERIFIED,OTHER,RUB,peggedRUB,fiat-backed,Ethereum;Tron
+274,EURQ,Quantoz EURQ,EURQ,UNVERIFIED,UNVERIFIED,EUR,EUR,peggedEUR,fiat-backed,Algorand;Ethereum;Polygon;XRPL
+280,CNHT,Tether CNH,CNHT,UNVERIFIED,UNVERIFIED,OTHER,CNY,peggedCNY,fiat-backed,Ethereum;Tron
+281,MXNT,Mexican Peso Tether,MXNT,UNVERIFIED,UNVERIFIED,OTHER,MXN,peggedMXN,fiat-backed,Ethereum
+289,XSGD,XSGD,XSGD,UNVERIFIED,UNVERIFIED,OTHER,SGD,peggedSGD,fiat-backed,Arbitrum;Avalanche;Ethereum;Hedera;Polygon;XRPL;Zilliqa
+292,VGBP,VNX British Pound,VGBP,UNVERIFIED,UNVERIFIED,OTHER,GBP,peggedGBP,fiat-backed,Base;Celo;Ethereum;Solana
+299,PHT,PHT Stablecoin,PHT,UNVERIFIED,UNVERIFIED,OTHER,PHP,peggedPHP,crypto-backed,Ethereum;Polygon;Tron
+300,TRYB,Bilira,TRYB,UNVERIFIED,UNVERIFIED,OTHER,TRY,peggedTRY,fiat-backed,Avalanche;BSC;Base;Ethereum;Plasma;Polygon;Solana
+317,tGBP,Tokenised GBP,tGBP,UNVERIFIED,UNVERIFIED,OTHER,GBP,peggedGBP,fiat-backed,Arbitrum;Avalanche;BSC;Base;Ethereum;Gnosis;Polygon;Solana
+319,EURAU,AllUnity EUR,EURAU,UNVERIFIED,UNVERIFIED,EUR,EUR,peggedEUR,fiat-backed,Base;Ethereum;OP Mainnet;Polygon;Tempo
+325,EURI,Eurite,EURI,UNVERIFIED,UNVERIFIED,EUR,EUR,peggedEUR,fiat-backed,BSC;Ethereum
+334,AUDM,Macropod,AUDM,UNVERIFIED,UNVERIFIED,OTHER,AUD,peggedAUD,fiat-backed,Base;Ethereum;Redbelly;Solana
+351,RUBT,Tetris Money,RUBT,UNVERIFIED,UNVERIFIED,OTHER,RUB,peggedRUB,fiat-backed,Ethereum;Hyperliquid L1;Tron
+352,BRTH,BRTH,BRTH,UNVERIFIED,UNVERIFIED,OTHER,BRL,peggedREAL,fiat-backed,Polygon
+355,JPYC,JPY Coin,JPYC,UNVERIFIED,UNVERIFIED,OTHER,JPY,peggedJPY,fiat-backed,Avalanche;Ethereum;Kaia;Polygon
+358,GBPm,Mento British Pound,GBPm,UNVERIFIED,UNVERIFIED,OTHER,GBP,peggedGBP,crypto-backed,Celo;Monad
+359,PHPm,Mento Philippine Peso,PHPm,UNVERIFIED,UNVERIFIED,OTHER,PHP,peggedPHP,crypto-backed,Celo
+360,CADm,Mento Canadian Dollar,CADm,UNVERIFIED,UNVERIFIED,OTHER,CAD,peggedCAD,crypto-backed,Celo
+361,AUDm,Mento Australian Dollar,AUDm,UNVERIFIED,UNVERIFIED,OTHER,AUD,peggedAUD,crypto-backed,Celo
+362,COPm,Mento Colombian Peso,COPm,UNVERIFIED,UNVERIFIED,OTHER,COP,peggedCOP,crypto-backed,Celo
+363,JPYm,Mento Japanese Yen,JPYm,UNVERIFIED,UNVERIFIED,OTHER,JPY,peggedJPY,crypto-backed,Celo;Monad
+365,BRLA,BRLA Digital,BRLA,UNVERIFIED,UNVERIFIED,OTHER,BRL,peggedREAL,fiat-backed,Celo;Gnosis;Moonbeam;Polygon
+367,KESm,Mento Kenyan Shilling,KESm,UNVERIFIED,UNVERIFIED,OTHER,KES,peggedKES,crypto-backed,Celo
+368,ZARm,Mento South African Rand,ZARm,UNVERIFIED,UNVERIFIED,OTHER,ZAR,peggedZAR,crypto-backed,Celo
+369,NGNm,Mento Nigerian Naira,NGNm,UNVERIFIED,UNVERIFIED,OTHER,NGN,peggedNGN,crypto-backed,Celo
+370,CHFm,Mento Swiss Franc,CHFm,UNVERIFIED,UNVERIFIED,OTHER,CHF,peggedCHF,crypto-backed,Celo;Monad
+371,XOFm,Mento West African CFA Franc,XOFm,UNVERIFIED,UNVERIFIED,OTHER,XOF,peggedXOF,crypto-backed,Celo
+372,GHSm,Mento Ghanaian Cedi,GHSm,UNVERIFIED,UNVERIFIED,OTHER,GHS,peggedGHS,crypto-backed,Celo
+379,WARS,Argentine Peso,WARS,UNVERIFIED,UNVERIFIED,OTHER,ARS,peggedARS,fiat-backed,BSC;Base;Celo;Ethereum;Gnosis;Polygon;World Chain
+380,WBRL,Brazilian Real,WBRL,UNVERIFIED,UNVERIFIED,OTHER,BRL,peggedREAL,fiat-backed,BSC;Base;Celo;Ethereum;Gnosis;Polygon;World Chain
+381,WCLP,Chilean Peso,WCLP,UNVERIFIED,UNVERIFIED,OTHER,CLP,peggedCLP,fiat-backed,BSC;Base;Celo;Ethereum;Gnosis;Polygon;World Chain
+382,WCOP,Colombian Peso,WCOP,UNVERIFIED,UNVERIFIED,OTHER,COP,peggedCOP,fiat-backed,BSC;Base;Celo;Ethereum;Gnosis;Polygon;World Chain
+383,WMXN,Mexican Peso,WMXN,UNVERIFIED,UNVERIFIED,OTHER,MXN,peggedMXN,fiat-backed,BSC;Base;Celo;Ethereum;Gnosis;Polygon;World Chain
+384,WPEN,Peruvian Sol,WPEN,UNVERIFIED,UNVERIFIED,OTHER,PEN,peggedPEN,fiat-backed,BSC;Base;Celo;Ethereum;Gnosis;Polygon;World Chain
+387,CADD,CAD Digital,CADD,UNVERIFIED,UNVERIFIED,OTHER,CAD,peggedCAD,fiat-backed,Base;Ethereum
+392,EURW,Newrails Euro,EURW,UNVERIFIED,UNVERIFIED,EUR,EUR,peggedEUR,fiat-backed,Monad
+393,haEUR,Harbor haEUR,haEUR,UNVERIFIED,UNVERIFIED,EUR,EUR,peggedEUR,crypto-backed,Ethereum
+399,GBPA,Agant GBP,GBPA,UNVERIFIED,UNVERIFIED,OTHER,GBP,peggedGBP,fiat-backed,Arc;Base;Ethereum;Solana;Tempo
+412,MYRT,MYR Stablecoin,MYRT,UNVERIFIED,UNVERIFIED,OTHER,MYR,peggedMYR,fiat-backed,Ethereum
+414,REUR,Royal Euro,REUR,UNVERIFIED,UNVERIFIED,EUR,EUR,peggedEUR,fiat-backed,BSC;Ethereum;Tron
+422,AUDF,Forte AUD,AUDF,UNVERIFIED,UNVERIFIED,OTHER,AUD,peggedAUD,fiat-backed,Avalanche;Base;Ethereum;Polygon;Redbelly
+423,dEURO,Decentralized Euro,dEURO,UNVERIFIED,UNVERIFIED,EUR,EUR,peggedEUR,crypto-backed,Arbitrum;Base;Ethereum;OP Mainnet;Polygon
+424,QCAD,Stablecorp QCAD,QCAD,UNVERIFIED,UNVERIFIED,OTHER,CAD,peggedCAD,fiat-backed,Base;Ethereum;Solana
+427,JPYSC,JPYSC,JPYSC,UNVERIFIED,UNVERIFIED,OTHER,JPY,peggedJPY,fiat-backed,Ethereum
+428,KRWQ,KRWQ,KRWQ,UNVERIFIED,UNVERIFIED,OTHER,KRW,peggedKRW,fiat-backed,Base;Codex;Ethereum;Fraxtal;Morph;Polygon;Solana
+429,KRW1,KRW1,KRW1,UNVERIFIED,UNVERIFIED,OTHER,KRW,peggedKRW,fiat-backed,Ethereum
+436,EURR [436],Revolut Euro,EURR,UNVERIFIED,UNVERIFIED,EUR,EUR,peggedEUR,fiat-backed,Ethereum;Polygon
+437,HKDAP,HKD At Par,HKDAP,UNVERIFIED,UNVERIFIED,OTHER,HKD,peggedHKD,fiat-backed,Ethereum
+444,QEURO,Quantillon Euro,QEURO,UNVERIFIED,UNVERIFIED,EUR,EUR,peggedEUR,crypto-backed,Base
+446,GBPE,Monerium GBP emoney,GBPE,UNVERIFIED,UNVERIFIED,OTHER,GBP,peggedGBP,fiat-backed,Arbitrum;Base;Ethereum;Gnosis;Linea;Polygon
+448,JPYdf,JPYdf,JPYdf,UNVERIFIED,UNVERIFIED,OTHER,JPY,peggedJPY,crypto-backed,Ethereum
+450,BRL1,BRL1,BRL1,UNVERIFIED,UNVERIFIED,OTHER,BRL,peggedREAL,fiat-backed,Polygon;Rayls
+458,DDSC,Dirham-Backed Stablecoin,DDSC,UNVERIFIED,UNVERIFIED,OTHER,AED,peggedAED,fiat-backed,ADI
+459,iTRY,Brix iTRY,iTRY,UNVERIFIED,UNVERIFIED,OTHER,TRY,peggedTRY,fiat-backed,Ethereum;MegaETH
+460,COPM,COPM by Minteo,COPM,UNVERIFIED,UNVERIFIED,OTHER,COP,peggedCOP,fiat-backed,Celo;Polygon;Solana
+461,XCHF,CryptoFranc,XCHF,UNVERIFIED,UNVERIFIED,OTHER,CHF,peggedCHF,fiat-backed,Ethereum
+462,XIDR,StraitsX XIDR,XIDR,UNVERIFIED,UNVERIFIED,OTHER,IDR,peggedIDR,fiat-backed,Ethereum;Polygon
+463,MXNe,Real MXN,MXNe,UNVERIFIED,UNVERIFIED,OTHER,MXN,peggedMXN,fiat-backed,Base;Solana;Stellar

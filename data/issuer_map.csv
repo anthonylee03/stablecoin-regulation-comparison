@@ -1,0 +1,16 @@
+coin,issuer,source_id,confidence,notes
+USDT,"Tether International, S.A. de C.V.",ISS-01,high,발행 공시 법인
+USDC,Circle,ISS-02,high,지역별 발행 법인을 코인 단위 Circle로 표시
+USDe,Ethena BVI Limited,ISS-03,med,직접 민트 계약 당사자 기준
+DAI,Sky Protocol,ISS-04;ISS-05,high,탈중앙 프로토콜. MakerDAO에서 이어진 DAI와 USDS를 동일 그룹에 합산
+USDS [209],Sky Protocol,ISS-04;ISS-05,high,탈중앙 프로토콜. MakerDAO에서 이어진 DAI와 USDS를 동일 그룹에 합산
+RLUSD,Ripple Custody & Trust Co.,ISS-06,high,공식 발행 약관의 명칭
+USD1,BitGo,ISS-07,high,공동 약관의 BitGo 발행 표기. WLFI 브랜드와 구별
+USDG,Paxos Digital Singapore / Paxos Issuance Europe,ISS-08;ISS-09,high,지역 발행 법인이 둘이며 데이터는 단일 계열. PYUSD와 별도 그룹
+PYUSD,Paxos Trust Company,ISS-10,high,Paxos 계열이나 USDG와 발행 법인이 달라 별도 그룹
+U,United Stables Limited,ISS-11,high,준비자산 검증 보고서의 발행 법인
+USDf,Falcon Digital Limited,ISS-12,med,발행 약관 당사자와 그 계열사 범위
+USDD,USDD Protocol,ISS-13;ISS-14;ISS-18,med,현행 탈중앙 프로토콜. 원본 Tron 토큰 주소와 신형 주소 일치. 구형과 신형의 과거 시계열 분리는 UNVERIFIED
+USDGO,Anchorage Digital Bank,ISS-15,high,발행 은행. OSL 제품 유통과 구별
+OUSD [443],Bridge Building Inc.,ISS-16,high,Open USD. Origin Dollar와 구별
+A7A5,Old Vector,ISS-17,high,공식 백서의 발행 법인
